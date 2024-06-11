@@ -48,8 +48,7 @@ if __name__ == "__main__":
             data = requests.get(url).json()
             cj_cnt = data['data']['data']['supply_index'][0]['num'] # 成交
             xz_cnt = data['data']['data']['supply_index'][1]['num'] # 新增
-            dkl_cnt = data['data']['data']['supply_index'][2]['num'] # 带看量
-            logger.info(f"{yesterday}, {k}, 成交量：{cj_cnt}, 新增量：{xz_cnt}, 带看量：{dkl_cnt}")
+            logger.info(f"{yesterday}, {k}, 成交量：{cj_cnt}, 新增量：{xz_cnt}")
         except Exception as e:
             logger.error(str(e))
     
