@@ -1091,3 +1091,15 @@
 2024-09-07 20:06:52,233 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
 2024-09-07 20:06:53,554 - __main__ - INFO - 2024-09-06, 南沙, 成交量：2, 新增量：29
 2024-09-07 20:06:54,680 - __main__ - INFO - 2024-09-06, 广州, 成交量：75, 新增量：504
+2024-09-08 20:06:45,731 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:46,762 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:47,817 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:49,359 - __main__ - INFO - 2024-09-07, 海珠, 成交量：21, 新增量：73
+2024-09-08 20:06:50,588 - __main__ - INFO - 2024-09-07, 番禺, 成交量：25, 新增量：84
+2024-09-08 20:06:51,642 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:52,585 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:53,525 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:54,462 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:55,408 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-09-08 20:06:56,777 - __main__ - INFO - 2024-09-07, 南沙, 成交量：10, 新增量：33
+2024-09-08 20:06:57,922 - __main__ - INFO - 2024-09-07, 广州, 成交量：129, 新增量：560
