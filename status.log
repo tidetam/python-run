@@ -1559,3 +1559,15 @@
 2024-10-16 20:08:23,021 - __main__ - INFO - 2024-10-15, 花都, 成交量：8, 新增量：48
 2024-10-16 20:08:24,223 - __main__ - INFO - 2024-10-15, 南沙, 成交量：5, 新增量：46
 2024-10-16 20:08:25,350 - __main__ - INFO - 2024-10-15, 广州, 成交量：137, 新增量：586
+2024-10-17 20:08:15,438 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:16,435 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:17,344 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:18,318 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:19,222 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:20,278 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:21,262 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:22,173 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:23,081 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:24,055 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:24,952 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2024-10-17 20:08:25,857 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
