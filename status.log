@@ -502,3 +502,15 @@
 2025-10-28 20:10:15,712 - __main__ - INFO - 2025-10-27, 花都, 成交量：4, 新增量：39
 2025-10-28 20:10:17,260 - __main__ - INFO - 2025-10-27, 南沙, 成交量：2, 新增量：40
 2025-10-28 20:10:18,634 - __main__ - INFO - 2025-10-27, 广州, 成交量：108, 新增量：450
+2025-10-29 20:09:35,591 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:36,813 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:37,967 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:39,167 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:40,292 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:41,445 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:42,558 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:43,835 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:45,201 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:46,432 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:47,559 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
+2025-10-29 20:09:48,723 - __main__ - ERROR - Expecting value: line 1 column 1 (char 0)
